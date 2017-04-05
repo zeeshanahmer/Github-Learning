@@ -3,3 +3,4 @@ First_file.txt
 logfile.log
 Please_removed.txt
 to_restore_file_in_git.txt
+to check the git commit -a -m 'added new benchmarks'
