@@ -1,0 +1,3 @@
+new file
+this line is add to check the diff command.
+TO CHECK THE MERGER OPTION IN GIT.......
